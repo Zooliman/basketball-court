@@ -17,3 +17,4 @@
 ## Technical Details
 - Run the server with: `node index.js`
 - Access at http://localhost:8000 in your web browser
+- Full details about the implementation can be found in the `README.md` file in the `src` directory.
